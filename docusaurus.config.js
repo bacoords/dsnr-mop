@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "bacoords", // Usually your GitHub org/user name.
-  projectName: "dnsr-mop", // Usually your repo name.
+  projectName: "dsnr-mop", // Usually your repo name.
   deploymentBranch: "main",
   trailingSlash: true,
 
