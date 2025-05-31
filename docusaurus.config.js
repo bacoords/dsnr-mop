@@ -10,8 +10,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "DNSR MOP",
-  tagline: "DNSR MOP",
+  title: "Relapse Navigator Reference Guide",
+  tagline: "Relapse Navigator Reference Guide",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "DNSR MOP",
+        title: "Relapse Navigator Reference Guide",
         items: [],
       },
       footer: {
