@@ -31,6 +31,8 @@ Two outcomes of relapse adjudication are possible: a clinical event is either a 
 
 **Figure 1.** Overview: **_Relapse Navigator_** Adjudication Modules and Process
 
+![A diagram of a flowchart](../assets/1.1.png)
+
 ## 1.2 Interpretation of Clinical Signs and Symptoms
 
 Adjudication of a NMOSD relapse requires both subjective symptoms and objective evidence that supports the new symptoms are owing to the occurrence of new disease activity rather than another cause. The subjective information is the report of a new "clinical event", which a set of new or changed symptoms that are plausibly consistent with a NMOSD relapse. The objective evidence may include a predefined amount of objective clinical evidence (new clinical signs), by MRI evidence (new or enhancing lesions), or both.
