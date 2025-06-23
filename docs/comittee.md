@@ -86,7 +86,7 @@ University of California, Los Angeles, USA
 ### Operational Logistics Team
 
 **Jacinta Behne, MA**  
-**Megan Behne** 
+**Megan Behne**   
 **Dan Behne, MArch**  
 **Renee Rodriguez**
 
