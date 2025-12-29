@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Relapse Navigator Development Committee
 
-The Guthy-Jackson Charitable Foundation is grateful to the team of experts who participated in development of the **_Relapse Navigator_** <sup>®</sup> as listed below:
+The Guthy-Jackson Charitable Foundation is grateful to the team of experts who participated in development of the **_Relapse Navigator_**  as listed below:
 
 ## Leadership
 

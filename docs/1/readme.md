@@ -3,7 +3,7 @@ sidebar_label: 1. Relapse Adjudication Overview
 ---
 
 
-# 1. Relapse Adjudication: Overview of Relapse Navigator <sup>®</sup>
+# 1. Relapse Adjudication: Overview of Relapse Navigator 
 
 This reference manual explains the overall rationale for and processes underlying the **_Relapse Navigator_**, an instrument designed to be an adjunct to clinical adjudication of acute neurological events that occur in patients with neuromyelitis optica spectrum disorder (NMOSD). Sections 1-4 outline the general process for relapse adjudication, including the integration of symptoms, clinical signs, and MRI data, as well as relapse localization and severity determination. Sections 5-9 outline the detailed assessment of a potential relapse in each of the 5 domains: optic nerve, spinal cord, area postrema, brainstem, and brain.
 
